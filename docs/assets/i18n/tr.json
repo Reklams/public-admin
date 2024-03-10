@@ -72,7 +72,12 @@
     "channel": "Kanal",
     "channel-list": "Kanal Listesi",
     "user": "Kullanıcı",
-    "user-list": "Kullanıcı Listesi"
+    "user-list": "Kullanıcı Listesi",
+    "address_card": "Adres Kartı",
+    "company_card": "Şirket Kartı",
+    "company_edit": "Şirket Güncelleme",
+    "company_create": "Şirket Ekleme",
+    "product_card": "Ürün Kartı"
   },
   "grid": {
     "total_count": "Toplam Sonuç",
@@ -132,6 +137,7 @@
     "channel": "Mecra",
     "product_price_unit": "Birim",
     "products": "Ürün(ler)",
-    "add_product": "Ürün Ekle"
+    "add_product": "Ürün Ekle",
+    "product": "Ürün"
   }
 }
