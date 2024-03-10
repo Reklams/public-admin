@@ -16,7 +16,7 @@
     "yes": "Evet",
     "no": "Hayır",
     "edit": "Güncelle",
-    "description": "Açıklamalar",
+    "description": "Açıklama",
     "search": "Ara",
     "not_found": "Sonuç bulunamadı",
     "country_select": "Ülke Seçiniz",
@@ -53,7 +53,8 @@
     "unit_select": "Birim Seçiniz",
     "channel_select": "Kanal Seçiniz",
     "currency": "Para Birimi",
-    "currency_select": "Para Birimi Seçiniz"
+    "currency_select": "Para Birimi Seçiniz",
+    "created_at": "Kayit Tarihi"
   },
   "messages": {
     "successfull": "İşlem Başarılı",
@@ -132,12 +133,16 @@
   },
   "product": {
     "product_count": "Ürün Sayısı",
-    "description": "Açıklama",
     "new_product": "Yeni Ürün",
-    "channel": "Mecra",
     "product_price_unit": "Birim",
     "products": "Ürün(ler)",
     "add_product": "Ürün Ekle",
-    "product": "Ürün"
+    "product": "Ürün",
+    "external_id": "Harici Kod"
+  },
+  "channel": {
+    "name": "Mecra",
+    "channels": "Mecralar",
+    "channel_type": "Mecra Tipi"
   }
 }
